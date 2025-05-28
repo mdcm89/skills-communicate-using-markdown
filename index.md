@@ -4,3 +4,4 @@
 # <h4> Testing markdowns on GitHub
 # <h5> Testing markdowns on GitHub
 # <h6> Testing markdowns on GitHub
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
